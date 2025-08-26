@@ -1,5 +1,8 @@
-<img width="1299" height="1003" alt="image" src="https://github.com/user-attachments/assets/e76f2bd4-ea07-446e-af23-0da14d708ea0" />
+# Advanced SQL for Query Tuning and Performance Optimization
 
+## Certificate ID: d2ddeedd1ed0f647a18233caa79ac735f2cb52d100ad3c4ef588c8c07c4ba1cc
+
+<img width="1299" height="1003" alt="image" src="https://github.com/user-attachments/assets/e76f2bd4-ea07-446e-af23-0da14d708ea0" />
 
 ---
 
