@@ -3,6 +3,8 @@
 ## Certificate no: UC-6caea177-a20c-4576-8951-059e81364492
 ## Certificate url: ude.my/UC-6caea177-a20c-4576-8951-059e81364492
 
+![Udemy - Taming Big Data with Apache Spark 4 and Python](https://github.com/user-attachments/assets/5011fc52-3619-494a-8140-34e41ddbb640)
+
 ---
 
 ### 🌟 **Learnings from “Taming Big Data with Apache Spark 4 and Python”**
