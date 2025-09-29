@@ -6,6 +6,10 @@
 
 <img width="800" height="700" alt="Databricks Fundamentals" src="https://github.com/user-attachments/assets/88a996af-f362-446b-b014-c865e685fa48" />
 
+## Score
+
+<img width="665" height="421" alt="Screenshot 2025-09-29 124128" src="https://github.com/user-attachments/assets/154435f4-f9dc-47e1-9415-7610409b208e" />
+
 ---
 
 ### 🌟 **Learnings from “Databricks Fundamentals”**
