@@ -1,10 +1,11 @@
 
 # Generative AI Fundamentals
 
-## Certificate no: 1a3107dd-3b15-4dbe-8145-576bc503425d#acc.2jizGR7t
-## Certificate url: [ude.my/UC-6caea177-a20c-4576-8951-059e81364492](https://credentials.databricks.com/1a3107dd-3b15-4dbe-8145-576bc503425d#acc.2jizGR7t)
+## Certificate no: 1f29904d-cc4c-46a4-aebe-2be6465bce62
+## Certificate url: https://credentials.databricks.com/1f29904d-cc4c-46a4-aebe-2be6465bce62
 
-<img width="800" height="700" alt="Databricks Fundamentals" src="https://github.com/user-attachments/assets/88a996af-f362-446b-b014-c865e685fa48" />
+<img width="800" height="700" alt="Generative AI Fundamentals" src="https://github.com/user-attachments/assets/5532bfc3-87d4-4d65-b49a-9405e3810903" />
+
 
 ## Score
 
